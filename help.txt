@@ -1,0 +1,11 @@
+1. Command to install json-server : 
+
+npm install –g json–server
+
+2. Command to start JSON Server ee: 
+
+json-server --watch db.json
+ 
+or 
+
+json-server --watch <complete path where you have place .Json data file on your system)
